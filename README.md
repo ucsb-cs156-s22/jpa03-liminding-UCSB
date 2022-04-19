@@ -1,8 +1,11 @@
 # demo-spring-react-example-v2: dsre-v2
 
+Repo is here:
+https://github.com/ucsb-cs156-s22/jpa03-liminding-UCSB
+
 Storybook is here:
-* Production: https://github.com/ucsb-cs156-s22/jpa03-liminding-UCSB-docs
-* QA:  https://github.com/ucsb-cs156-s22/jpa03-liminding-UCSB-docs-qa
+* Production: https://ucsb-cs156-s22.github.io/jpa03-liminding-UCSB-docs/
+* QA:  https://ucsb-cs156-s22.github.io/jpa03-liminding-UCSB-docs-qa/
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
